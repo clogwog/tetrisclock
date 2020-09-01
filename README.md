@@ -6,3 +6,5 @@ setup to use a 32x32 led matrix
 
 a tetris animation of the time, with a second animation that slowly creeps around the frame.
 
+
+![animation](https://j.gifs.com/VAGBBM.gif)
